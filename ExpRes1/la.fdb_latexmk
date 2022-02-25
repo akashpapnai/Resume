@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1644944585 "c:/Users/akash/Desktop/Resume/ExpRes1/la.tex" "la.pdf" "la" 1644944586
+["pdflatex"] 1645812007 "c:/Users/akash/Desktop/Resume/ExpRes1/la.tex" "la.pdf" "la" 1645812008
   "C:/Users/akash/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1642496381 216258 0ece8eea6cb01b3ee800672868cb5183 ""
   "C:/Users/akash/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1641050182 11548 903a5b9f34a55f1f2572158ee45692cd ""
   "C:/Users/akash/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1640615932 9769968 7a522e6def453394c39f9a7e0c93d4f1 ""
@@ -59,10 +59,10 @@
   "Pages/education.tex" 1644944539 404 ff05fc1b1e238d77f02962d652a85dd2 ""
   "Pages/projects.tex" 1644944539 1411 ebd8657217149f21136a28461230cb73 ""
   "Pages/skills.tex" 1644944539 306 c45b286c67ca045d2f31bc91b18d5b86 ""
-  "Pages/we.tex" 1644944539 1048 5726d724b3edf406bba679b8a5f78237 ""
+  "Pages/we.tex" 1645812006 1143 97364e06dc021fcd20f8bc734a961e0a ""
   "c:/Users/akash/Desktop/Resume/ExpRes1/la.tex" 1644944539 673 07ad10baff7c5cef471c70d3d1fc0ae0 ""
-  "la.aux" 1644944586 686 e6bf9f11827e1eae1d85e75b99e0a183 "pdflatex"
-  "la.out" 1644944586 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "la.aux" 1645812008 686 e6bf9f11827e1eae1d85e75b99e0a183 "pdflatex"
+  "la.out" 1645812008 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   "la.tex" 1644944539 673 07ad10baff7c5cef471c70d3d1fc0ae0 ""
   "resume.cls" 1644944539 4929 d6ccec7a3189b5f24f9bccc56b0a9d48 ""
   (generated)
